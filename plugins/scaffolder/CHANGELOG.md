@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder
 
+## 1.26.0-next.3
+
+### Patch Changes
+
+- f25c9e3: Fix behavior of scaffolder entity pickers (EntityPicker, MultiEntityPicker, MyGroupsPicker) to not auto-fill and disable the field if there is only a single value option and the field is not required.
+
 ## 1.26.0-next.2
 
 ### Patch Changes
