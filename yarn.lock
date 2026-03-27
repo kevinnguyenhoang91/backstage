@@ -6765,7 +6765,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     "@types/nodemailer": ^6.4.14
     lodash: ^4.17.21
-    nodemailer: ^6.9.13
+    nodemailer: ^8.0.4
     p-throttle: ^4.1.1
   languageName: unknown
   linkType: soft
@@ -37016,10 +37016,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.13":
-  version: 6.9.16
-  resolution: "nodemailer@npm:6.9.16"
-  checksum: a031d243914ab5a3bb48c75e1fab02d25fb45c2b5b9bc15569cce45ec851235bc970087de99477ca6e7ee88fab2cb6a590a714af310f58532dbcc31396f68b1c
+"nodemailer@npm:^8.0.4":
+  version: 8.0.4
+  resolution: "nodemailer@npm:8.0.4"
+  checksum: 5c038b8ac8154d12cc5de01a70489de6a05a80ef5576b1ced3ec17670dcf04f9d2cc81dd44c4e23e1d81c20c4b0a6b97cf45f32f52593e5125eb522e2bbdea21
   languageName: node
   linkType: hard
 
