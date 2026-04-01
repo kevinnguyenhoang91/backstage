@@ -3654,7 +3654,7 @@ __metadata:
     raw-body: ^2.4.1
     selfsigned: ^2.0.0
     supertest: ^7.0.0
-    tar: ^6.1.12
+    tar: ^7.5.11
     triple-beam: ^1.4.1
     uuid: ^11.0.0
     wait-for-expect: ^3.0.2
@@ -4057,7 +4057,7 @@ __metadata:
     style-loader: ^3.3.1
     sucrase: ^3.20.2
     swc-loader: ^0.2.3
-    tar: ^6.1.12
+    tar: ^7.5.11
     terser-webpack-plugin: ^5.1.3
     ts-morph: ^24.0.0
     util: ^0.12.3
@@ -6765,7 +6765,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     "@types/nodemailer": ^6.4.14
     lodash: ^4.17.21
-    nodemailer: ^6.9.13
+    nodemailer: ^8.0.4
     p-throttle: ^4.1.1
   languageName: unknown
   linkType: soft
@@ -7444,7 +7444,7 @@ __metadata:
     prom-client: ^15.0.0
     strip-ansi: ^7.1.0
     supertest: ^7.0.0
-    tar: ^6.1.12
+    tar: ^7.5.11
     triple-beam: ^1.4.1
     uuid: ^11.0.0
     wait-for-expect: ^3.0.2
@@ -7511,7 +7511,7 @@ __metadata:
     isomorphic-git: ^1.23.0
     jsonschema: ^1.2.6
     p-limit: ^3.1.0
-    tar: ^6.1.12
+    tar: ^7.5.11
     winston: ^3.2.1
     zod: ^3.22.4
     zod-to-json-schema: ^3.20.4
@@ -7557,7 +7557,7 @@ __metadata:
     "@types/react": ^18.0.0
     ajv-errors: ^3.0.0
     classnames: ^2.2.6
-    flatted: 3.3.2
+    flatted: 3.4.2
     humanize-duration: ^3.25.1
     json-schema: ^0.4.0
     json-schema-library: ^9.0.0
@@ -8411,7 +8411,7 @@ __metadata:
     minimatch: ^9.0.0
     p-limit: ^3.0.2
     portfinder: ^1.0.32
-    tar: ^6.1.12
+    tar: ^7.5.11
     ts-morph: ^24.0.0
     yaml-diff-patch: ^2.0.0
   peerDependencies:
@@ -29176,7 +29176,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flatted@npm:3.3.2, flatted@npm:^3.1.0, flatted@npm:^3.2.7":
+"flatted@npm:3.4.2":
+  version: 3.4.2
+  resolution: "flatted@npm:3.4.2"
+  checksum: 1b2536fccbbf75d67a823dea67819f764c19266ad5e4aca6b47f6bf84d3b5e1c15eb5862f7dec1fb87129b60741524933192051286de52baddbc97129896380d
+  languageName: node
+  linkType: hard
+
+"flatted@npm:^3.1.0, flatted@npm:^3.2.7":
   version: 3.3.2
   resolution: "flatted@npm:3.3.2"
   checksum: ac3c159742e01d0e860a861164bcfd35bb567ccbebb8a0dd041e61cf3c64a435b917dd1e7ed1c380c2ebca85735fb16644485ec33665bc6aafc3b316aa1eed44
@@ -36137,6 +36144,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"minizlib@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "minizlib@npm:3.1.0"
+  dependencies:
+    minipass: ^7.1.2
+  checksum: a15e6f0128f514b7d41a1c68ce531155447f4669e32d279bba1c1c071ef6c2abd7e4d4579bb59ccc2ed1531346749665968fdd7be8d83eb6b6ae2fe1f3d370a7
+  languageName: node
+  linkType: hard
+
 "mkdirp-classic@npm:^0.5.2, mkdirp-classic@npm:^0.5.3":
   version: 0.5.3
   resolution: "mkdirp-classic@npm:0.5.3"
@@ -37016,10 +37032,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.13":
-  version: 6.9.16
-  resolution: "nodemailer@npm:6.9.16"
-  checksum: a031d243914ab5a3bb48c75e1fab02d25fb45c2b5b9bc15569cce45ec851235bc970087de99477ca6e7ee88fab2cb6a590a714af310f58532dbcc31396f68b1c
+"nodemailer@npm:^8.0.4":
+  version: 8.0.4
+  resolution: "nodemailer@npm:8.0.4"
+  checksum: 5c038b8ac8154d12cc5de01a70489de6a05a80ef5576b1ced3ec17670dcf04f9d2cc81dd44c4e23e1d81c20c4b0a6b97cf45f32f52593e5125eb522e2bbdea21
   languageName: node
   linkType: hard
 
@@ -44213,6 +44229,19 @@ __metadata:
     mkdirp: ^3.0.1
     yallist: ^5.0.0
   checksum: 8485350c0688331c94493031f417df069b778aadb25598abdad51862e007c39d1dd5310702c7be4a6784731a174799d8885d2fde0484269aea205b724d7b2ffa
+  languageName: node
+  linkType: hard
+
+"tar@npm:^7.5.11":
+  version: 7.5.13
+  resolution: "tar@npm:7.5.13"
+  dependencies:
+    "@isaacs/fs-minipass": ^4.0.0
+    chownr: ^3.0.0
+    minipass: ^7.1.2
+    minizlib: ^3.1.0
+    yallist: ^5.0.0
+  checksum: adcc2a9179dab1b36ecb26575e698d2df8491a1df2cc83e2a0fdd8eaefd076da60dd2e20383a37760b5790bee34e9291aa2b2a9b3deef37ff03c1046219e5df7
   languageName: node
   linkType: hard
 
