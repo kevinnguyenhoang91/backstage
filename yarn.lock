@@ -3488,7 +3488,7 @@ __metadata:
     stoppable: ^1.1.0
     supertest: ^7.0.0
     triple-beam: ^1.4.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     winston-transport: ^4.5.0
   languageName: unknown
@@ -3654,9 +3654,9 @@ __metadata:
     raw-body: ^2.4.1
     selfsigned: ^2.0.0
     supertest: ^7.0.0
-    tar: ^6.1.12
+    tar: ^7.5.11
     triple-beam: ^1.4.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     wait-for-expect: ^3.0.2
     winston: ^3.2.1
     winston-transport: ^4.5.0
@@ -3814,7 +3814,7 @@ __metadata:
     supertest: ^7.0.0
     testcontainers: ^10.0.0
     textextensions: ^5.16.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     yn: ^4.0.0
   peerDependencies:
     "@types/jest": "*"
@@ -4057,7 +4057,7 @@ __metadata:
     style-loader: ^3.3.1
     sucrase: ^3.20.2
     swc-loader: ^0.2.3
-    tar: ^6.1.12
+    tar: ^7.5.11
     terser-webpack-plugin: ^5.1.3
     ts-morph: ^24.0.0
     util: ^0.12.3
@@ -5073,7 +5073,7 @@ __metadata:
     jose: ^5.0.0
     msw: ^2.0.0
     node-mocks-http: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5379,7 +5379,7 @@ __metadata:
     passport-oauth2: ^1.6.1
     passport-onelogin-oauth: ^0.0.1
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yn: ^4.0.0
   languageName: unknown
@@ -5434,7 +5434,7 @@ __metadata:
     msw: ^1.0.0
     passport: ^0.7.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     zod: ^3.22.4
     zod-to-json-schema: ^3.21.4
@@ -5512,7 +5512,7 @@ __metadata:
     aws-sdk-client-mock-jest: ^4.0.0
     luxon: ^3.0.0
     p-limit: ^3.0.2
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yaml: ^2.0.0
   languageName: unknown
@@ -5533,7 +5533,7 @@ __metadata:
     "@backstage/plugin-catalog-node": "workspace:^"
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5552,7 +5552,7 @@ __metadata:
     lodash: ^4.17.21
     openapi-merge: ^1.3.2
     openapi3-ts: ^3.1.2
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5574,7 +5574,7 @@ __metadata:
     "@backstage/plugin-events-node": "workspace:^"
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5593,7 +5593,7 @@ __metadata:
     luxon: ^3.0.0
     msw: ^1.0.0
     p-throttle: ^4.1.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5627,7 +5627,7 @@ __metadata:
     fs-extra: ^11.2.0
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5670,7 +5670,7 @@ __metadata:
     luxon: ^3.0.0
     minimatch: ^9.0.0
     msw: ^2.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5710,7 +5710,7 @@ __metadata:
     luxon: ^3.0.0
     msw: ^1.0.0
     node-fetch: ^2.7.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5737,7 +5737,7 @@ __metadata:
     express-promise-router: ^4.1.0
     knex: ^3.0.0
     luxon: ^3.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5757,7 +5757,7 @@ __metadata:
     "@types/lodash": ^4.14.151
     ldapjs: ^2.3.3
     lodash: ^4.17.21
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5793,7 +5793,7 @@ __metadata:
     msw: ^1.0.0
     p-limit: ^3.0.2
     qs: ^6.9.4
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5831,7 +5831,7 @@ __metadata:
     lodash: ^4.17.21
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5914,7 +5914,7 @@ __metadata:
     p-limit: ^3.0.2
     prom-client: ^15.0.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     wait-for-expect: ^3.0.2
     winston: ^3.13.0
     yaml: ^2.0.0
@@ -6765,7 +6765,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     "@types/nodemailer": ^6.4.14
     lodash: ^4.17.21
-    nodemailer: ^6.9.13
+    nodemailer: ^8.0.5
     p-throttle: ^4.1.1
   languageName: unknown
   linkType: soft
@@ -6799,7 +6799,7 @@ __metadata:
     knex: ^3.0.0
     msw: ^1.0.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yn: ^4.0.0
   languageName: unknown
@@ -6829,7 +6829,7 @@ __metadata:
     "@backstage/test-utils": "workspace:^"
     knex: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7009,7 +7009,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     cross-fetch: ^4.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     zod: ^3.22.4
     zod-to-json-schema: ^3.20.4
   languageName: unknown
@@ -7088,7 +7088,7 @@ __metadata:
     http-proxy-middleware: ^2.0.0
     morgan: ^1.10.0
     msw: ^2.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yaml: ^2.0.0
     yn: ^4.0.0
@@ -7444,9 +7444,9 @@ __metadata:
     prom-client: ^15.0.0
     strip-ansi: ^7.1.0
     supertest: ^7.0.0
-    tar: ^6.1.12
+    tar: ^7.5.11
     triple-beam: ^1.4.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     wait-for-expect: ^3.0.2
     winston: ^3.2.1
     winston-transport: ^4.7.0
@@ -7511,7 +7511,7 @@ __metadata:
     isomorphic-git: ^1.23.0
     jsonschema: ^1.2.6
     p-limit: ^3.1.0
-    tar: ^6.1.12
+    tar: ^7.5.11
     winston: ^3.2.1
     zod: ^3.22.4
     zod-to-json-schema: ^3.20.4
@@ -7557,7 +7557,7 @@ __metadata:
     "@types/react": ^18.0.0
     ajv-errors: ^3.0.0
     classnames: ^2.2.6
-    flatted: 3.3.2
+    flatted: 3.4.2
     humanize-duration: ^3.25.1
     json-schema: ^0.4.0
     json-schema-library: ^9.0.0
@@ -7703,7 +7703,7 @@ __metadata:
     aws4: ^1.12.0
     elastic-builder: ^2.16.0
     lodash: ^4.17.21
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7736,7 +7736,7 @@ __metadata:
     "@backstage/plugin-search-common": "workspace:^"
     knex: ^3.0.0
     lodash: ^4.17.21
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7796,7 +7796,7 @@ __metadata:
     lodash: ^4.17.21
     lunr: ^2.3.9
     ndjson: ^2.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7870,7 +7870,7 @@ __metadata:
     react-dom: ^18.0.2
     react-router-dom: ^6.3.0
     react-use: ^17.3.2
-    uuid: ^11.0.2
+    uuid: ^14.0.0
   peerDependencies:
     "@types/react": ^16.13.1 || ^17.0.0 || ^18.0.0
     react: ^16.13.1 || ^17.0.0 || ^18.0.0
@@ -7948,7 +7948,7 @@ __metadata:
     http-proxy-middleware: ^2.0.0
     msw: ^1.0.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     ws: ^8.18.0
     yn: ^4.0.0
@@ -7967,7 +7967,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     "@types/express": ^4.17.21
     express: ^4.17.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     ws: ^8.18.0
   languageName: unknown
   linkType: soft
@@ -8024,7 +8024,7 @@ __metadata:
     react-dom: ^18.0.2
     react-router-dom: ^6.3.0
     react-use: ^17.2.4
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   peerDependencies:
     "@types/react": ^16.13.1 || ^17.0.0 || ^18.0.0
     react: ^16.13.1 || ^17.0.0 || ^18.0.0
@@ -8411,7 +8411,7 @@ __metadata:
     minimatch: ^9.0.0
     p-limit: ^3.0.2
     portfinder: ^1.0.32
-    tar: ^6.1.12
+    tar: ^7.5.11
     ts-morph: ^24.0.0
     yaml-diff-patch: ^2.0.0
   peerDependencies:
@@ -10441,7 +10441,7 @@ __metadata:
     express: ^4.17.1
     express-promise-router: ^4.1.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     yn: ^4.0.0
   languageName: unknown
   linkType: soft
@@ -29176,7 +29176,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flatted@npm:3.3.2, flatted@npm:^3.1.0, flatted@npm:^3.2.7":
+"flatted@npm:3.4.2":
+  version: 3.4.2
+  resolution: "flatted@npm:3.4.2"
+  checksum: 1b2536fccbbf75d67a823dea67819f764c19266ad5e4aca6b47f6bf84d3b5e1c15eb5862f7dec1fb87129b60741524933192051286de52baddbc97129896380d
+  languageName: node
+  linkType: hard
+
+"flatted@npm:^3.1.0, flatted@npm:^3.2.7":
   version: 3.3.2
   resolution: "flatted@npm:3.3.2"
   checksum: ac3c159742e01d0e860a861164bcfd35bb567ccbebb8a0dd041e61cf3c64a435b917dd1e7ed1c380c2ebca85735fb16644485ec33665bc6aafc3b316aa1eed44
@@ -36137,6 +36144,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"minizlib@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "minizlib@npm:3.1.0"
+  dependencies:
+    minipass: ^7.1.2
+  checksum: a15e6f0128f514b7d41a1c68ce531155447f4669e32d279bba1c1c071ef6c2abd7e4d4579bb59ccc2ed1531346749665968fdd7be8d83eb6b6ae2fe1f3d370a7
+  languageName: node
+  linkType: hard
+
 "mkdirp-classic@npm:^0.5.2, mkdirp-classic@npm:^0.5.3":
   version: 0.5.3
   resolution: "mkdirp-classic@npm:0.5.3"
@@ -37016,10 +37032,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.13":
-  version: 6.9.16
-  resolution: "nodemailer@npm:6.9.16"
-  checksum: a031d243914ab5a3bb48c75e1fab02d25fb45c2b5b9bc15569cce45ec851235bc970087de99477ca6e7ee88fab2cb6a590a714af310f58532dbcc31396f68b1c
+"nodemailer@npm:^8.0.5":
+  version: 8.0.7
+  resolution: "nodemailer@npm:8.0.7"
+  checksum: 25b59f1191b7a163638ec3d99fa920be11e63d69480c9276b546e35f087f814416fec732b713f215262935b0e5c101f20c7434e3aca66b8c6ce70989955f4166
   languageName: node
   linkType: hard
 
@@ -44216,6 +44232,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"tar@npm:^7.5.11":
+  version: 7.5.14
+  resolution: "tar@npm:7.5.14"
+  dependencies:
+    "@isaacs/fs-minipass": ^4.0.0
+    chownr: ^3.0.0
+    minipass: ^7.1.2
+    minizlib: ^3.1.0
+    yallist: ^5.0.0
+  checksum: 025cc4cbeaefc21a3e37f662fb0e5be7a4e6b6504d5d0444c67c4e7bc68ae294cbe1d453755deb8e39c533449cbff565849d8f66f4e00355593a2d649d66bb75
+  languageName: node
+  linkType: hard
+
 "tarn@npm:^3.0.2":
   version: 3.0.2
   resolution: "tarn@npm:3.0.2"
@@ -46030,12 +46059,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^11.0.0, uuid@npm:^11.0.2":
-  version: 11.0.3
-  resolution: "uuid@npm:11.0.3"
+"uuid@npm:^14.0.0":
+  version: 14.0.0
+  resolution: "uuid@npm:14.0.0"
   bin:
-    uuid: dist/esm/bin/uuid
-  checksum: 646181c77e8b8df9bd07254faa703943e1c4d5ccde7d080312edf12f443f6c5750801fd9b27bf2e628594182165e6b1b880c0382538f7eca00b26622203741dc
+    uuid: dist-node/bin/uuid
+  checksum: 08608584a79e987cdae000fa8eb724fa51dd8aafc136cd9fa9a8c87d07b246c56eec5fd9027fdb3e49a863eedf758bc19e325909ce281955c7a027fed67dc89e
   languageName: node
   linkType: hard
 
