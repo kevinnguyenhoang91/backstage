@@ -3488,7 +3488,7 @@ __metadata:
     stoppable: ^1.1.0
     supertest: ^7.0.0
     triple-beam: ^1.4.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     winston-transport: ^4.5.0
   languageName: unknown
@@ -3656,7 +3656,7 @@ __metadata:
     supertest: ^7.0.0
     tar: ^6.1.12
     triple-beam: ^1.4.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     wait-for-expect: ^3.0.2
     winston: ^3.2.1
     winston-transport: ^4.5.0
@@ -3814,7 +3814,7 @@ __metadata:
     supertest: ^7.0.0
     testcontainers: ^10.0.0
     textextensions: ^5.16.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     yn: ^4.0.0
   peerDependencies:
     "@types/jest": "*"
@@ -5073,7 +5073,7 @@ __metadata:
     jose: ^5.0.0
     msw: ^2.0.0
     node-mocks-http: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5379,7 +5379,7 @@ __metadata:
     passport-oauth2: ^1.6.1
     passport-onelogin-oauth: ^0.0.1
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yn: ^4.0.0
   languageName: unknown
@@ -5434,7 +5434,7 @@ __metadata:
     msw: ^1.0.0
     passport: ^0.7.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     zod: ^3.22.4
     zod-to-json-schema: ^3.21.4
@@ -5512,7 +5512,7 @@ __metadata:
     aws-sdk-client-mock-jest: ^4.0.0
     luxon: ^3.0.0
     p-limit: ^3.0.2
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yaml: ^2.0.0
   languageName: unknown
@@ -5533,7 +5533,7 @@ __metadata:
     "@backstage/plugin-catalog-node": "workspace:^"
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5552,7 +5552,7 @@ __metadata:
     lodash: ^4.17.21
     openapi-merge: ^1.3.2
     openapi3-ts: ^3.1.2
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5574,7 +5574,7 @@ __metadata:
     "@backstage/plugin-events-node": "workspace:^"
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5593,7 +5593,7 @@ __metadata:
     luxon: ^3.0.0
     msw: ^1.0.0
     p-throttle: ^4.1.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5627,7 +5627,7 @@ __metadata:
     fs-extra: ^11.2.0
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5670,7 +5670,7 @@ __metadata:
     luxon: ^3.0.0
     minimatch: ^9.0.0
     msw: ^2.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5710,7 +5710,7 @@ __metadata:
     luxon: ^3.0.0
     msw: ^1.0.0
     node-fetch: ^2.7.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5737,7 +5737,7 @@ __metadata:
     express-promise-router: ^4.1.0
     knex: ^3.0.0
     luxon: ^3.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5757,7 +5757,7 @@ __metadata:
     "@types/lodash": ^4.14.151
     ldapjs: ^2.3.3
     lodash: ^4.17.21
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5793,7 +5793,7 @@ __metadata:
     msw: ^1.0.0
     p-limit: ^3.0.2
     qs: ^6.9.4
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5831,7 +5831,7 @@ __metadata:
     lodash: ^4.17.21
     luxon: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -5914,7 +5914,7 @@ __metadata:
     p-limit: ^3.0.2
     prom-client: ^15.0.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     wait-for-expect: ^3.0.2
     winston: ^3.13.0
     yaml: ^2.0.0
@@ -6765,7 +6765,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     "@types/nodemailer": ^6.4.14
     lodash: ^4.17.21
-    nodemailer: ^6.9.13
+    nodemailer: ^8.0.5
     p-throttle: ^4.1.1
   languageName: unknown
   linkType: soft
@@ -6799,7 +6799,7 @@ __metadata:
     knex: ^3.0.0
     msw: ^1.0.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yn: ^4.0.0
   languageName: unknown
@@ -6829,7 +6829,7 @@ __metadata:
     "@backstage/test-utils": "workspace:^"
     knex: ^3.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7009,7 +7009,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     cross-fetch: ^4.0.0
     msw: ^1.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     zod: ^3.22.4
     zod-to-json-schema: ^3.20.4
   languageName: unknown
@@ -7088,7 +7088,7 @@ __metadata:
     http-proxy-middleware: ^2.0.0
     morgan: ^1.10.0
     msw: ^2.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     yaml: ^2.0.0
     yn: ^4.0.0
@@ -7446,7 +7446,7 @@ __metadata:
     supertest: ^7.0.0
     tar: ^6.1.12
     triple-beam: ^1.4.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     wait-for-expect: ^3.0.2
     winston: ^3.2.1
     winston-transport: ^4.7.0
@@ -7557,7 +7557,7 @@ __metadata:
     "@types/react": ^18.0.0
     ajv-errors: ^3.0.0
     classnames: ^2.2.6
-    flatted: 3.3.2
+    flatted: 3.4.2
     humanize-duration: ^3.25.1
     json-schema: ^0.4.0
     json-schema-library: ^9.0.0
@@ -7703,7 +7703,7 @@ __metadata:
     aws4: ^1.12.0
     elastic-builder: ^2.16.0
     lodash: ^4.17.21
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7736,7 +7736,7 @@ __metadata:
     "@backstage/plugin-search-common": "workspace:^"
     knex: ^3.0.0
     lodash: ^4.17.21
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7796,7 +7796,7 @@ __metadata:
     lodash: ^4.17.21
     lunr: ^2.3.9
     ndjson: ^2.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   languageName: unknown
   linkType: soft
 
@@ -7870,7 +7870,7 @@ __metadata:
     react-dom: ^18.0.2
     react-router-dom: ^6.3.0
     react-use: ^17.3.2
-    uuid: ^11.0.2
+    uuid: ^14.0.0
   peerDependencies:
     "@types/react": ^16.13.1 || ^17.0.0 || ^18.0.0
     react: ^16.13.1 || ^17.0.0 || ^18.0.0
@@ -7948,7 +7948,7 @@ __metadata:
     http-proxy-middleware: ^2.0.0
     msw: ^1.0.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     winston: ^3.2.1
     ws: ^8.18.0
     yn: ^4.0.0
@@ -7967,7 +7967,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     "@types/express": ^4.17.21
     express: ^4.17.1
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     ws: ^8.18.0
   languageName: unknown
   linkType: soft
@@ -8024,7 +8024,7 @@ __metadata:
     react-dom: ^18.0.2
     react-router-dom: ^6.3.0
     react-use: ^17.2.4
-    uuid: ^11.0.0
+    uuid: ^14.0.0
   peerDependencies:
     "@types/react": ^16.13.1 || ^17.0.0 || ^18.0.0
     react: ^16.13.1 || ^17.0.0 || ^18.0.0
@@ -10441,7 +10441,7 @@ __metadata:
     express: ^4.17.1
     express-promise-router: ^4.1.0
     supertest: ^7.0.0
-    uuid: ^11.0.0
+    uuid: ^14.0.0
     yn: ^4.0.0
   languageName: unknown
   linkType: soft
@@ -13230,6 +13230,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@opentelemetry/core@npm:2.7.1":
+  version: 2.7.1
+  resolution: "@opentelemetry/core@npm:2.7.1"
+  dependencies:
+    "@opentelemetry/semantic-conventions": ^1.29.0
+  peerDependencies:
+    "@opentelemetry/api": ">=1.0.0 <1.10.0"
+  checksum: 80f40a776170fc1996550aeabc540138688ff0be50308fb2b2e587893fb102e34810def63573ee42a5d056f9905b96b03771e9ec3798ccd77db0465d9f020897
+  languageName: node
+  linkType: hard
+
 "@opentelemetry/exporter-logs-otlp-grpc@npm:0.54.2":
   version: 0.54.2
   resolution: "@opentelemetry/exporter-logs-otlp-grpc@npm:0.54.2"
@@ -13324,16 +13335,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@opentelemetry/exporter-prometheus@npm:^0.54.0":
-  version: 0.54.2
-  resolution: "@opentelemetry/exporter-prometheus@npm:0.54.2"
+"@opentelemetry/exporter-prometheus@npm:^0.217.0":
+  version: 0.217.0
+  resolution: "@opentelemetry/exporter-prometheus@npm:0.217.0"
   dependencies:
-    "@opentelemetry/core": 1.27.0
-    "@opentelemetry/resources": 1.27.0
-    "@opentelemetry/sdk-metrics": 1.27.0
+    "@opentelemetry/core": 2.7.1
+    "@opentelemetry/resources": 2.7.1
+    "@opentelemetry/sdk-metrics": 2.7.1
+    "@opentelemetry/semantic-conventions": ^1.29.0
   peerDependencies:
     "@opentelemetry/api": ^1.3.0
-  checksum: 27590be619db4e3dd4755687f058b98d4c33fb112952b11816b2b8a7563cf4e644f5b4efa804f9397db0739ab244694d1f036181d1df8503c6dd6a96f2e51f7a
+  checksum: 4e0ea2dd0a2b39e0525770ed5a91b474ad56e10d663b96a6dd2d0175361bc4b8f61d1246068cc05062fd0d56edb3f8de4e45454e06d4b636a954b74954258987
   languageName: node
   linkType: hard
 
@@ -14216,6 +14228,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@opentelemetry/resources@npm:2.7.1":
+  version: 2.7.1
+  resolution: "@opentelemetry/resources@npm:2.7.1"
+  dependencies:
+    "@opentelemetry/core": 2.7.1
+    "@opentelemetry/semantic-conventions": ^1.29.0
+  peerDependencies:
+    "@opentelemetry/api": ">=1.3.0 <1.10.0"
+  checksum: 66286e13bfa40db2ce943441cebb2de68d840699a277fa6519e2c1f66b58eddaeb05ae9526f4878a9e83848f90ebe2a5273023d2c085380b5ef86ed6e535a172
+  languageName: node
+  linkType: hard
+
 "@opentelemetry/sdk-logs@npm:0.54.2":
   version: 0.54.2
   resolution: "@opentelemetry/sdk-logs@npm:0.54.2"
@@ -14263,6 +14287,18 @@ __metadata:
   peerDependencies:
     "@opentelemetry/api": ">=1.3.0 <1.10.0"
   checksum: 036f2da0adff7ffd69cd2b7892b81ef4dcd0caa0c3d176dbfec9282a004f56af46956b66949f8e3ce27db589c99fa56a996e3854599979fa35dab876109f533a
+  languageName: node
+  linkType: hard
+
+"@opentelemetry/sdk-metrics@npm:2.7.1":
+  version: 2.7.1
+  resolution: "@opentelemetry/sdk-metrics@npm:2.7.1"
+  dependencies:
+    "@opentelemetry/core": 2.7.1
+    "@opentelemetry/resources": 2.7.1
+  peerDependencies:
+    "@opentelemetry/api": ">=1.9.0 <1.10.0"
+  checksum: d66a8d54565c8dccb39dc372a4d17f86465e5698af3995cace3533bd1bbc6a79634b3d0c2a93eea58fc6661354d4995ce414e1764c3d6876afc91852976abfe5
   languageName: node
   linkType: hard
 
@@ -14387,6 +14423,13 @@ __metadata:
   version: 1.28.0
   resolution: "@opentelemetry/semantic-conventions@npm:1.28.0"
   checksum: 1d708afa654990236cdb6b5da84f7ab899b70bff9f753bc49d93616a5c7f7f339ba1eba6a9fbb57dee596995334f4e7effa57a4624741882ab5b3c419c3511e2
+  languageName: node
+  linkType: hard
+
+"@opentelemetry/semantic-conventions@npm:^1.29.0":
+  version: 1.40.0
+  resolution: "@opentelemetry/semantic-conventions@npm:1.40.0"
+  checksum: e823ab2d8f4c809770485b8b7b30174c047714ed5da047b0c1d07ed0f98c5ac158fce665b7057f2bc942cde659b76e29251d42a52a44b8e77a5f776516d0bc54
   languageName: node
   linkType: hard
 
@@ -28398,7 +28441,7 @@ __metadata:
     "@backstage/plugin-signals-backend": "workspace:^"
     "@backstage/plugin-techdocs-backend": "workspace:^"
     "@opentelemetry/auto-instrumentations-node": ^0.54.0
-    "@opentelemetry/exporter-prometheus": ^0.54.0
+    "@opentelemetry/exporter-prometheus": ^0.217.0
     "@opentelemetry/sdk-node": ^0.54.0
     example-app: "link:../app"
   languageName: unknown
@@ -29176,7 +29219,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flatted@npm:3.3.2, flatted@npm:^3.1.0, flatted@npm:^3.2.7":
+"flatted@npm:3.4.2":
+  version: 3.4.2
+  resolution: "flatted@npm:3.4.2"
+  checksum: 1b2536fccbbf75d67a823dea67819f764c19266ad5e4aca6b47f6bf84d3b5e1c15eb5862f7dec1fb87129b60741524933192051286de52baddbc97129896380d
+  languageName: node
+  linkType: hard
+
+"flatted@npm:^3.1.0, flatted@npm:^3.2.7":
   version: 3.3.2
   resolution: "flatted@npm:3.3.2"
   checksum: ac3c159742e01d0e860a861164bcfd35bb567ccbebb8a0dd041e61cf3c64a435b917dd1e7ed1c380c2ebca85735fb16644485ec33665bc6aafc3b316aa1eed44
@@ -37016,10 +37066,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.13":
-  version: 6.9.16
-  resolution: "nodemailer@npm:6.9.16"
-  checksum: a031d243914ab5a3bb48c75e1fab02d25fb45c2b5b9bc15569cce45ec851235bc970087de99477ca6e7ee88fab2cb6a590a714af310f58532dbcc31396f68b1c
+"nodemailer@npm:^8.0.5":
+  version: 8.0.7
+  resolution: "nodemailer@npm:8.0.7"
+  checksum: 25b59f1191b7a163638ec3d99fa920be11e63d69480c9276b546e35f087f814416fec732b713f215262935b0e5c101f20c7434e3aca66b8c6ce70989955f4166
   languageName: node
   linkType: hard
 
@@ -46030,12 +46080,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^11.0.0, uuid@npm:^11.0.2":
-  version: 11.0.3
-  resolution: "uuid@npm:11.0.3"
+"uuid@npm:^14.0.0":
+  version: 14.0.0
+  resolution: "uuid@npm:14.0.0"
   bin:
-    uuid: dist/esm/bin/uuid
-  checksum: 646181c77e8b8df9bd07254faa703943e1c4d5ccde7d080312edf12f443f6c5750801fd9b27bf2e628594182165e6b1b880c0382538f7eca00b26622203741dc
+    uuid: dist-node/bin/uuid
+  checksum: 08608584a79e987cdae000fa8eb724fa51dd8aafc136cd9fa9a8c87d07b246c56eec5fd9027fdb3e49a863eedf758bc19e325909ce281955c7a027fed67dc89e
   languageName: node
   linkType: hard
 
